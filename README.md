@@ -1,3 +1,3 @@
-# Python-cources
+# some python projects
 # view code
 
